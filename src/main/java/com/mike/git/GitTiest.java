@@ -6,5 +6,6 @@ public class GitTiest {
         System.out.println("hot_fix111");
         System.out.println("hot_fix222");
         System.out.println("master push");
+        System.out.println("master push123123");
     }
 }
